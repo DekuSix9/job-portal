@@ -6,7 +6,7 @@ import { RiLinkedinLine } from "react-icons/ri";
 
 const Footer = () => {
     return (
-        <footer className=" max-w-11/12 mx-auto">
+        <footer className=" max-w-11/12 mx-auto my-12">
             <div className=" flex flex-col md:flex-row justify-between items-center">
                 <div className=" flex flex-col md:flex-row gap-1 md:gap-6 items-center">
                    <h1 className='text-xl font-bold text-[#84BD00]'>CareerHub</h1>

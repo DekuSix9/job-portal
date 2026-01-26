@@ -1,9 +1,11 @@
+import AllJobs from "./AllJobs";
 
+const MainNav = ({filteredJobs}) => {
+   
 
-const MainNav = () => {
     return (
         <div >
-           <h1>Main</h1> 
+            <AllJobs filteredJobs={filteredJobs}></AllJobs>
         </div>
     );
 };

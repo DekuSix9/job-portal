@@ -1,9 +1,12 @@
+import LoginEmail from "./LoginEmail";
+import SaveData from "./SaveData";
 
 
 const RightNav = () => {
     return (
         <div >
-            <h2>Right</h2>
+            <LoginEmail/>
+            <SaveData/>
         </div>
     );
 };
