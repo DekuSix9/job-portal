@@ -3,16 +3,12 @@ import { IoIosArrowDown } from "react-icons/io";
 
 const Company = ({jobs, selectedCompany, setSelectedCompany}) => {
     
-    const [visible,setVisible]=useState(4);
-    
-       
+       const [visible,setVisible]=useState(4);
         const uniqueCompany=[...new Set(jobs.map(job=>job.companyName))];
      
         const handleSeemore=()=>{
             setVisible((prev)=>prev+4)
         }
-
-
 
     return (
            <div className=" mt-4">

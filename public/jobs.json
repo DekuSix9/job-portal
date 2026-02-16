@@ -8,7 +8,21 @@
     "location": "Dhaka",
     "salary": "৳50,000 - ৳80,000",
     "postedDate": "2026-01-02",
-    "experience": "1-3 Years"
+    "experience": "1-3 Years",
+    "jobDescription": "Join TechNova Ltd as a Frontend React Developer to build high-quality, responsive web applications in a collaborative team environment.",
+    "keyResponsibilities": [
+      "Develop responsive user interfaces using React.js",
+      "Implement reusable components and front-end libraries",
+      "Collaborate with backend developers and designers",
+      "Optimize applications for maximum performance"
+    ],
+    "skillsQualification": [
+      "Proficient in JavaScript, ES6+, HTML5, CSS3",
+      "Experience with React.js and state management libraries",
+      "Knowledge of RESTful APIs",
+      "Problem-solving skills and attention to detail"
+    ],
+    "applicationEndsDate": "2026-02-15"
   },
   {
     "id": 2,
@@ -19,7 +33,21 @@
     "location": "Remote",
     "salary": "৳30,000 - ৳45,000",
     "postedDate": "2026-01-03",
-    "experience": "Fresher"
+    "experience": "Fresher",
+    "jobDescription": "CodeWave is looking for a Junior Web Developer to help build and maintain web applications while gaining hands-on experience in modern web development.",
+    "keyResponsibilities": [
+      "Assist in front-end and back-end development tasks",
+      "Write clean and maintainable code",
+      "Participate in team meetings and code reviews",
+      "Debug and test web applications"
+    ],
+    "skillsQualification": [
+      "Basic knowledge of HTML, CSS, and JavaScript",
+      "Familiarity with React or other frontend frameworks",
+      "Willingness to learn and adapt",
+      "Strong communication skills"
+    ],
+    "applicationEndsDate": "2026-02-20"
   },
   {
     "id": 3,
@@ -30,7 +58,21 @@
     "location": "Chattogram",
     "salary": "৳25,000 - ৳40,000",
     "postedDate": "2026-01-04",
-    "experience": "6 Months - 1 Year"
+    "experience": "6 Months - 1 Year",
+    "jobDescription": "Creative Minds seeks a UI/UX Designer to craft visually appealing and user-friendly interfaces for web and mobile platforms.",
+    "keyResponsibilities": [
+      "Design wireframes, prototypes, and user interfaces",
+      "Conduct user research and usability testing",
+      "Collaborate with developers to implement designs",
+      "Maintain design consistency across projects"
+    ],
+    "skillsQualification": [
+      "Proficient in Figma, Adobe XD, or Sketch",
+      "Strong understanding of UX principles",
+      "Attention to detail and creativity",
+      "Good communication skills"
+    ],
+    "applicationEndsDate": "2026-02-18"
   },
   {
     "id": 4,
@@ -41,7 +83,21 @@
     "location": "Remote",
     "salary": "$800 - $1200",
     "postedDate": "2026-01-05",
-    "experience": "2+ Years"
+    "experience": "2+ Years",
+    "jobDescription": "NextGen Software is hiring a MERN Stack Developer for building end-to-end web applications with MongoDB, Express, React, and Node.js.",
+    "keyResponsibilities": [
+      "Develop full-stack web applications",
+      "Integrate front-end and back-end components",
+      "Maintain and optimize database and server-side code",
+      "Participate in code reviews and project planning"
+    ],
+    "skillsQualification": [
+      "Strong knowledge of MongoDB, Express.js, React.js, Node.js",
+      "Experience with RESTful APIs",
+      "Understanding of version control systems (Git)",
+      "Problem-solving skills and self-motivation"
+    ],
+    "applicationEndsDate": "2026-02-22"
   },
   {
     "id": 5,
@@ -52,7 +108,21 @@
     "location": "Sylhet",
     "salary": "৳60,000 - ৳90,000",
     "postedDate": "2026-01-06",
-    "experience": "3-5 Years"
+    "experience": "3-5 Years",
+    "jobDescription": "DataCore Systems is looking for a Backend Node.js Developer to build scalable and high-performance server-side applications.",
+    "keyResponsibilities": [
+      "Develop and maintain backend APIs using Node.js",
+      "Integrate with databases and third-party services",
+      "Optimize server performance and ensure security",
+      "Collaborate with frontend developers for seamless integration"
+    ],
+    "skillsQualification": [
+      "Proficiency in Node.js and Express.js",
+      "Experience with SQL/NoSQL databases",
+      "Knowledge of RESTful APIs and authentication",
+      "Strong problem-solving skills"
+    ],
+    "applicationEndsDate": "2026-02-23"
   },
   {
     "id": 6,
@@ -63,7 +133,21 @@
     "location": "Dhaka",
     "salary": "৳70,000 - ৳100,000",
     "postedDate": "2026-01-07",
-    "experience": "2-4 Years"
+    "experience": "2-4 Years",
+    "jobDescription": "BrainStation 23 seeks a Software Engineer to design, develop, and maintain software applications across multiple platforms.",
+    "keyResponsibilities": [
+      "Develop and maintain software applications",
+      "Collaborate with cross-functional teams",
+      "Test, debug, and document code",
+      "Stay updated with emerging technologies"
+    ],
+    "skillsQualification": [
+      "Proficiency in at least one programming language (JavaScript, Python, or Java)",
+      "Experience with software development lifecycle",
+      "Analytical and problem-solving skills",
+      "Good teamwork and communication abilities"
+    ],
+    "applicationEndsDate": "2026-02-24"
   },
   {
     "id": 7,
@@ -74,7 +158,21 @@
     "location": "Remote",
     "salary": "$900 - $1300",
     "postedDate": "2026-01-08",
-    "experience": "1-2 Years"
+    "experience": "1-2 Years",
+    "jobDescription": "Appify is hiring a React Native Developer to build cross-platform mobile applications for iOS and Android.",
+    "keyResponsibilities": [
+      "Develop mobile applications using React Native",
+      "Work with APIs to integrate backend services",
+      "Collaborate with UI/UX designers",
+      "Ensure performance optimization and bug fixing"
+    ],
+    "skillsQualification": [
+      "Strong knowledge of React Native",
+      "Experience with mobile app lifecycle and deployment",
+      "Familiarity with RESTful APIs",
+      "Good problem-solving and debugging skills"
+    ],
+    "applicationEndsDate": "2026-02-25"
   },
   {
     "id": 8,
@@ -85,7 +183,21 @@
     "location": "Dhaka",
     "salary": "৳10,000 - ৳15,000",
     "postedDate": "2026-01-09",
-    "experience": "Fresher"
+    "experience": "Fresher",
+    "jobDescription": "SoftRise offers an internship for aspiring Web Developers to gain hands-on experience in real-world projects.",
+    "keyResponsibilities": [
+      "Assist in website development and maintenance",
+      "Learn and apply web technologies",
+      "Participate in team meetings and brainstorming sessions",
+      "Support senior developers in coding and testing"
+    ],
+    "skillsQualification": [
+      "Basic understanding of HTML, CSS, and JavaScript",
+      "Eagerness to learn and grow",
+      "Good communication and teamwork skills",
+      "Ability to take initiative"
+    ],
+    "applicationEndsDate": "2026-02-26"
   },
   {
     "id": 9,
@@ -96,7 +208,21 @@
     "location": "Rajshahi",
     "salary": "৳45,000 - ৳70,000",
     "postedDate": "2026-01-10",
-    "experience": "1-3 Years"
+    "experience": "1-3 Years",
+    "jobDescription": "WebCraft is seeking a Laravel Developer to build and maintain robust web applications using the Laravel PHP framework.",
+    "keyResponsibilities": [
+      "Develop and maintain Laravel-based applications",
+      "Integrate with databases and APIs",
+      "Optimize application performance and security",
+      "Collaborate with frontend developers"
+    ],
+    "skillsQualification": [
+      "Strong knowledge of PHP and Laravel framework",
+      "Experience with MySQL or other databases",
+      "Familiarity with RESTful APIs",
+      "Problem-solving skills and attention to detail"
+    ],
+    "applicationEndsDate": "2026-02-27"
   },
   {
     "id": 10,
@@ -107,9 +233,22 @@
     "location": "Dhaka",
     "salary": "৳40,000 - ৳65,000",
     "postedDate": "2026-01-11",
-    "experience": "1-2 Years"
+    "experience": "1-2 Years",
+    "jobDescription": "BugFree is hiring a QA Engineer to ensure the quality and reliability of our software products through testing and analysis.",
+    "keyResponsibilities": [
+      "Develop and execute test plans",
+      "Identify and report bugs and issues",
+      "Collaborate with developers to ensure quality",
+      "Maintain test documentation and reports"
+    ],
+    "skillsQualification": [
+      "Experience in manual and automated testing",
+      "Knowledge of QA methodologies and tools",
+      "Attention to detail and analytical skills",
+      "Good communication and teamwork abilities"
+    ],
+    "applicationEndsDate": "2026-02-28"
   },
-
   {
     "id": 11,
     "jobTitle": "DevOps Engineer",
@@ -119,7 +258,21 @@
     "location": "Remote",
     "salary": "$1200 - $1800",
     "postedDate": "2026-01-12",
-    "experience": "3+ Years"
+    "experience": "3+ Years",
+    "jobDescription": "CloudOps is looking for a DevOps Engineer to streamline development and deployment processes while ensuring system reliability and scalability.",
+    "keyResponsibilities": [
+      "Manage CI/CD pipelines and automation",
+      "Monitor and maintain cloud infrastructure",
+      "Collaborate with development and QA teams",
+      "Optimize performance and ensure security"
+    ],
+    "skillsQualification": [
+      "Experience with AWS, Azure, or GCP",
+      "Knowledge of Docker, Kubernetes, and CI/CD tools",
+      "Scripting skills (Python, Bash, etc.)",
+      "Strong problem-solving and troubleshooting skills"
+    ],
+    "applicationEndsDate": "2026-03-05"
   },
   {
     "id": 12,
@@ -130,7 +283,21 @@
     "location": "Remote",
     "salary": "$400 - $700",
     "postedDate": "2026-01-13",
-    "experience": "1-2 Years"
+    "experience": "1-2 Years",
+    "jobDescription": "WP Masters seeks a WordPress Developer to design, develop, and customize WordPress websites with a focus on performance and user experience.",
+    "keyResponsibilities": [
+      "Develop and maintain WordPress websites",
+      "Customize themes and plugins",
+      "Optimize website performance",
+      "Collaborate with designers and content creators"
+    ],
+    "skillsQualification": [
+      "Proficient in PHP, HTML, CSS, JavaScript",
+      "Experience with WordPress themes and plugins",
+      "Knowledge of SEO best practices",
+      "Attention to detail and creativity"
+    ],
+    "applicationEndsDate": "2026-03-06"
   },
   {
     "id": 13,
@@ -141,7 +308,21 @@
     "location": "Dhaka",
     "salary": "৳60,000 - ৳90,000",
     "postedDate": "2026-01-14",
-    "experience": "2-4 Years"
+    "experience": "2-4 Years",
+    "jobDescription": "DesignHub is seeking a Product Designer to create user-centered designs and improve product usability across web and mobile platforms.",
+    "keyResponsibilities": [
+      "Design user flows, wireframes, and prototypes",
+      "Collaborate with engineers to implement designs",
+      "Conduct usability tests and gather feedback",
+      "Maintain design systems and brand consistency"
+    ],
+    "skillsQualification": [
+      "Proficiency in Figma, Sketch, or Adobe XD",
+      "Strong understanding of UX principles",
+      "Experience in product design for web/mobile",
+      "Creativity and attention to detail"
+    ],
+    "applicationEndsDate": "2026-03-07"
   },
   {
     "id": 14,
@@ -152,7 +333,21 @@
     "location": "Khulna",
     "salary": "৳70,000 - ৳110,000",
     "postedDate": "2026-01-15",
-    "experience": "4-6 Years"
+    "experience": "4-6 Years",
+    "jobDescription": "TechSolutions is hiring a System Analyst to evaluate, design, and improve IT systems to meet business requirements effectively.",
+    "keyResponsibilities": [
+      "Analyze business requirements and system specifications",
+      "Recommend improvements and solutions",
+      "Collaborate with developers and stakeholders",
+      "Document systems and processes"
+    ],
+    "skillsQualification": [
+      "Strong analytical and problem-solving skills",
+      "Knowledge of system development lifecycle",
+      "Experience with databases and software tools",
+      "Excellent communication and documentation skills"
+    ],
+    "applicationEndsDate": "2026-03-08"
   },
   {
     "id": 15,
@@ -163,9 +358,22 @@
     "location": "Remote",
     "salary": "$1000 - $1500",
     "postedDate": "2026-01-16",
-    "experience": "2-3 Years"
+    "experience": "2-3 Years",
+    "jobDescription": "AI Labs is seeking a Python Developer to design, implement, and maintain Python-based applications, with a focus on AI and data-driven projects.",
+    "keyResponsibilities": [
+      "Write reusable and efficient Python code",
+      "Develop APIs and integrate with front-end systems",
+      "Work on data analysis and AI projects",
+      "Collaborate with cross-functional teams"
+    ],
+    "skillsQualification": [
+      "Proficient in Python and libraries (NumPy, Pandas, Django, Flask)",
+      "Experience with RESTful APIs",
+      "Knowledge of databases and data structures",
+      "Problem-solving and analytical skills"
+    ],
+    "applicationEndsDate": "2026-03-09"
   },
-
   {
     "id": 16,
     "jobTitle": "Data Analyst",
@@ -175,7 +383,21 @@
     "location": "Dhaka",
     "salary": "৳65,000 - ৳95,000",
     "postedDate": "2026-01-17",
-    "experience": "1-3 Years"
+    "experience": "1-3 Years",
+    "jobDescription": "Insight Data is hiring a Data Analyst to collect, process, and analyze data to support business decision-making.",
+    "keyResponsibilities": [
+      "Analyze datasets to identify trends and patterns",
+      "Create dashboards and reports",
+      "Collaborate with teams to improve data-driven decisions",
+      "Ensure data quality and integrity"
+    ],
+    "skillsQualification": [
+      "Proficient in Excel, SQL, and data visualization tools",
+      "Experience with Python/R for data analysis",
+      "Strong analytical and problem-solving skills",
+      "Attention to detail"
+    ],
+    "applicationEndsDate": "2026-03-10"
   },
   {
     "id": 17,
@@ -186,7 +408,21 @@
     "location": "Barishal",
     "salary": "৳30,000 - ৳50,000",
     "postedDate": "2026-01-18",
-    "experience": "Fresher"
+    "experience": "Fresher",
+    "jobDescription": "HelpDesk Pro is looking for an IT Support Engineer to provide technical assistance and troubleshoot hardware/software issues.",
+    "keyResponsibilities": [
+      "Provide technical support to users",
+      "Troubleshoot and resolve hardware/software issues",
+      "Document problems and solutions",
+      "Assist in system maintenance and updates"
+    ],
+    "skillsQualification": [
+      "Basic knowledge of hardware and software troubleshooting",
+      "Familiarity with Windows/Linux systems",
+      "Good communication and problem-solving skills",
+      "Customer service mindset"
+    ],
+    "applicationEndsDate": "2026-03-11"
   },
   {
     "id": 18,
@@ -197,7 +433,21 @@
     "location": "Dhaka",
     "salary": "৳90,000 - ৳140,000",
     "postedDate": "2026-01-19",
-    "experience": "3-5 Years"
+    "experience": "3-5 Years",
+    "jobDescription": "SecureNet is hiring a Cyber Security Analyst to protect systems and networks from cyber threats and ensure data security.",
+    "keyResponsibilities": [
+      "Monitor and analyze security threats",
+      "Implement security measures and protocols",
+      "Conduct vulnerability assessments",
+      "Collaborate with IT teams for incident response"
+    ],
+    "skillsQualification": [
+      "Knowledge of firewalls, VPNs, IDS/IPS",
+      "Experience with security monitoring tools",
+      "Understanding of cybersecurity principles",
+      "Analytical thinking and problem-solving skills"
+    ],
+    "applicationEndsDate": "2026-03-12"
   },
   {
     "id": 19,
@@ -208,7 +458,21 @@
     "location": "Remote",
     "salary": "$700 - $1000",
     "postedDate": "2026-01-20",
-    "experience": "2 Years"
+    "experience": "2 Years",
+    "jobDescription": "MobileX is seeking an Android Developer to build high-quality mobile applications for Android devices.",
+    "keyResponsibilities": [
+      "Develop Android applications using Java/Kotlin",
+      "Integrate APIs and third-party services",
+      "Optimize apps for performance and security",
+      "Collaborate with UI/UX designers and QA"
+    ],
+    "skillsQualification": [
+      "Strong knowledge of Java/Kotlin and Android SDK",
+      "Experience with REST APIs and SQLite",
+      "Familiarity with version control systems",
+      "Problem-solving skills"
+    ],
+    "applicationEndsDate": "2026-03-13"
   },
   {
     "id": 20,
@@ -219,9 +483,22 @@
     "location": "Dhaka",
     "salary": "৳80,000 - ৳120,000",
     "postedDate": "2026-01-21",
-    "experience": "2-4 Years"
+    "experience": "2-4 Years",
+    "jobDescription": "SwiftApps is hiring an iOS Developer to build and maintain mobile applications for iPhone and iPad platforms.",
+    "keyResponsibilities": [
+      "Develop iOS applications using Swift",
+      "Collaborate with UI/UX designers",
+      "Integrate with APIs and back-end services",
+      "Test, debug, and maintain applications"
+    ],
+    "skillsQualification": [
+      "Proficient in Swift and Xcode",
+      "Experience with RESTful APIs",
+      "Knowledge of iOS frameworks and best practices",
+      "Problem-solving and analytical skills"
+    ],
+    "applicationEndsDate": "2026-03-14"
   },
-
   {
     "id": 21,
     "jobTitle": "Technical Writer",
@@ -231,7 +508,21 @@
     "location": "Remote",
     "salary": "$300 - $500",
     "postedDate": "2026-01-22",
-    "experience": "1 Year"
+    "experience": "1 Year",
+    "jobDescription": "DocuTech is looking for a Technical Writer to create clear and concise documentation for software products and technical processes.",
+    "keyResponsibilities": [
+      "Write user manuals, guides, and technical documentation",
+      "Collaborate with engineers to understand features",
+      "Ensure documentation is accurate and user-friendly",
+      "Maintain documentation updates for new releases"
+    ],
+    "skillsQualification": [
+      "Excellent writing and communication skills",
+      "Ability to understand complex technical concepts",
+      "Proficiency in documentation tools (MS Word, Confluence, etc.)",
+      "Attention to detail"
+    ],
+    "applicationEndsDate": "2026-03-15"
   },
   {
     "id": 22,
@@ -242,7 +533,21 @@
     "location": "Dhaka",
     "salary": "৳120,000 - ৳180,000",
     "postedDate": "2026-01-23",
-    "experience": "5+ Years"
+    "experience": "5+ Years",
+    "jobDescription": "AgileWorks is seeking a Project Manager to oversee software development projects, ensure timely delivery, and manage cross-functional teams.",
+    "keyResponsibilities": [
+      "Plan, execute, and close projects successfully",
+      "Coordinate teams and resources",
+      "Monitor project progress and budgets",
+      "Ensure project quality and risk management"
+    ],
+    "skillsQualification": [
+      "Proven project management experience",
+      "Familiarity with Agile/Scrum methodologies",
+      "Strong leadership and communication skills",
+      "Problem-solving and decision-making abilities"
+    ],
+    "applicationEndsDate": "2026-03-16"
   },
   {
     "id": 23,
@@ -253,7 +558,21 @@
     "location": "Dhaka",
     "salary": "৳70,000 - ৳110,000",
     "postedDate": "2026-01-24",
-    "experience": "2-4 Years"
+    "experience": "2-4 Years",
+    "jobDescription": "BizInsight is hiring a Business Analyst to gather requirements, analyze business processes, and propose effective solutions.",
+    "keyResponsibilities": [
+      "Gather and document business requirements",
+      "Analyze and model business processes",
+      "Collaborate with stakeholders and developers",
+      "Provide recommendations for process improvements"
+    ],
+    "skillsQualification": [
+      "Strong analytical and problem-solving skills",
+      "Experience with requirement gathering and documentation",
+      "Knowledge of business process modeling",
+      "Excellent communication skills"
+    ],
+    "applicationEndsDate": "2026-03-17"
   },
   {
     "id": 24,
@@ -264,7 +583,21 @@
     "location": "Remote",
     "salary": "$600 - $1000",
     "postedDate": "2026-01-25",
-    "experience": "1-3 Years"
+    "experience": "1-3 Years",
+    "jobDescription": "PlayTech is looking for a Game Developer to design, develop, and maintain engaging video games across platforms.",
+    "keyResponsibilities": [
+      "Develop games using Unity, Unreal, or other engines",
+      "Collaborate with designers and artists",
+      "Implement game mechanics and UI",
+      "Test and debug games for performance"
+    ],
+    "skillsQualification": [
+      "Proficiency in C#, C++, or relevant programming languages",
+      "Experience with game engines (Unity, Unreal)",
+      "Strong problem-solving and creative skills",
+      "Understanding of game physics and design principles"
+    ],
+    "applicationEndsDate": "2026-03-18"
   },
   {
     "id": 25,
@@ -275,9 +608,22 @@
     "location": "Dhaka",
     "salary": "৳90,000 - ৳140,000",
     "postedDate": "2026-01-26",
-    "experience": "3-5 Years"
+    "experience": "3-5 Years",
+    "jobDescription": "StackHouse is hiring a Full Stack Developer to build scalable web applications from front-end to back-end using modern technologies.",
+    "keyResponsibilities": [
+      "Develop front-end and back-end components",
+      "Integrate with databases and APIs",
+      "Optimize application performance",
+      "Collaborate with team members for full lifecycle development"
+    ],
+    "skillsQualification": [
+      "Proficient in JavaScript, React, Node.js, Express, SQL/NoSQL",
+      "Experience with RESTful APIs and authentication",
+      "Problem-solving and debugging skills",
+      "Good communication and teamwork"
+    ],
+    "applicationEndsDate": "2026-03-19"
   },
-
   {
     "id": 26,
     "jobTitle": "Digital Marketing Executive",
@@ -287,7 +633,21 @@
     "location": "Dhaka",
     "salary": "৳35,000 - ৳55,000",
     "postedDate": "2026-01-27",
-    "experience": "1-2 Years"
+    "experience": "1-2 Years",
+    "jobDescription": "MarketPlus is seeking a Digital Marketing Executive to plan and execute digital campaigns to drive growth and engagement.",
+    "keyResponsibilities": [
+      "Plan and execute social media campaigns",
+      "Monitor and report on campaign performance",
+      "Conduct SEO and SEM activities",
+      "Collaborate with content and design teams"
+    ],
+    "skillsQualification": [
+      "Knowledge of digital marketing tools and analytics",
+      "Experience with SEO/SEM and social media platforms",
+      "Creative thinking and content creation skills",
+      "Good communication and organizational skills"
+    ],
+    "applicationEndsDate": "2026-03-20"
   },
   {
     "id": 27,
@@ -298,7 +658,21 @@
     "location": "Remote",
     "salary": "$300 - $600",
     "postedDate": "2026-01-28",
-    "experience": "1-3 Years"
+    "experience": "1-3 Years",
+    "jobDescription": "RankBoost is hiring an SEO Specialist to improve website rankings, increase traffic, and optimize online visibility.",
+    "keyResponsibilities": [
+      "Perform keyword research and analysis",
+      "Optimize website content and structure",
+      "Monitor and report on SEO performance",
+      "Collaborate with content creators and developers"
+    ],
+    "skillsQualification": [
+      "Proficiency in SEO tools (Google Analytics, SEMrush, etc.)",
+      "Knowledge of on-page and off-page SEO techniques",
+      "Analytical and problem-solving skills",
+      "Strong communication and collaboration abilities"
+    ],
+    "applicationEndsDate": "2026-03-21"
   },
   {
     "id": 28,
@@ -309,7 +683,21 @@
     "location": "Remote",
     "salary": "$200 - $400",
     "postedDate": "2026-01-29",
-    "experience": "Fresher"
+    "experience": "Fresher",
+    "jobDescription": "WriteNow is looking for a Content Writer to create engaging and informative articles, blogs, and website content.",
+    "keyResponsibilities": [
+      "Research and write high-quality content",
+      "Edit and proofread articles",
+      "Collaborate with marketing and design teams",
+      "Ensure content aligns with brand voice"
+    ],
+    "skillsQualification": [
+      "Excellent writing and grammar skills",
+      "Ability to conduct research and understand topics quickly",
+      "Creativity and attention to detail",
+      "Time management and meeting deadlines"
+    ],
+    "applicationEndsDate": "2026-03-22"
   },
   {
     "id": 29,
@@ -320,7 +708,21 @@
     "location": "Dhaka",
     "salary": "৳40,000 - ৳65,000",
     "postedDate": "2026-01-30",
-    "experience": "1-2 Years"
+    "experience": "1-2 Years",
+    "jobDescription": "PeopleFirst is hiring an HR Executive to manage recruitment, employee relations, and HR operations effectively.",
+    "keyResponsibilities": [
+      "Manage recruitment and onboarding processes",
+      "Maintain employee records and HR systems",
+      "Address employee queries and concerns",
+      "Support HR policy implementation"
+    ],
+    "skillsQualification": [
+      "Knowledge of HR practices and labor laws",
+      "Good communication and interpersonal skills",
+      "Organizational and time management skills",
+      "Problem-solving and decision-making abilities"
+    ],
+    "applicationEndsDate": "2026-03-23"
   },
   {
     "id": 30,
@@ -331,6 +733,24 @@
     "location": "Remote",
     "salary": "$500 - $700",
     "postedDate": "2026-01-31",
-    "experience": "Fresher"
+    "experience": "Fresher",
+    "jobDescription": "FutureAI is offering an internship for AI Research Assistants to support AI and machine learning research projects.",
+    "keyResponsibilities": [
+      "Assist in AI/ML model development",
+      "Collect and preprocess datasets",
+      "Conduct experiments and analyze results",
+      "Document findings and assist researchers"
+    ],
+    "skillsQualification": [
+      "Basic knowledge of Python and AI/ML libraries",
+      "Understanding of machine learning concepts",
+      "Analytical and research skills",
+      "Eagerness to learn and adapt"
+    ],
+    "applicationEndsDate": "2026-03-24"
   }
 ]
+
+
+
+

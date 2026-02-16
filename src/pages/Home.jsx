@@ -5,7 +5,7 @@ import RightNav from "../components/RightNav";
 
 const Home = () => {
           const [jobs,setJobs]=useState([]);
-          const [selectedJobType,setSelectedJobType]=useState('');
+          const [selectedJobType,setSelectedJobType]=useState('All');
            const [selectedLocation, setSelectedLocation] = useState("");
          const [selectedCompany, setSelectedCompany] = useState("");
 
@@ -16,7 +16,7 @@ const Home = () => {
           }, []);
 
         const filteredJobs = jobs.filter(job => {
-    if (selectedJobType && job.jobType !== selectedJobType) return false;
+     if (selectedJobType !== "All" && job.jobType !== selectedJobType) return false;
     if (selectedLocation && job.location !== selectedLocation) return false;
     if (selectedCompany && job.companyName !== selectedCompany) return false;
     return true;

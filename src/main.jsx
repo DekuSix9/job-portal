@@ -5,6 +5,7 @@ import {createBrowserRouter,Navigate,RouterProvider,} from "react-router-dom";
 import Main from './layout/Main';
 import Home from './pages/Home';
 import SaveContext from './layout/SaveContext';
+import JobDetails from './pages/JobDetails';
 
 const router = createBrowserRouter([
   {
@@ -15,7 +16,14 @@ const router = createBrowserRouter([
         path:'/',
         element:<Home></Home>
       },
-     
+     {
+      path:'/jobDetails/:id',
+      element:<JobDetails></JobDetails>,
+      loader:async()=>{
+      const res=await fetch('/jobs.json');
+        return res.json();
+      }
+     }
     
     ]
   },

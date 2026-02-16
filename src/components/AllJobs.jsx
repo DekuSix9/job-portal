@@ -1,5 +1,6 @@
 import { useContext } from "react"
 import { SaveContextProvider } from "../layout/SaveContext"
+import { Link } from "react-router-dom";
 
 const AllJobs = ({filteredJobs}) => {
     const {addSave}=useContext(SaveContextProvider)
@@ -40,7 +41,7 @@ const AllJobs = ({filteredJobs}) => {
                         </div>
 
                         <div className=" flex justify-between">
-                         <p className=" text-gray-400">{job.postedDate}</p>
+                         <Link to={`/jobDetails/${job.id}`} className=" text-gray-400 cursor-pointer">View Details</Link>
                          <button onClick={()=>addSave(job)} className=" text-gray-400 cursor-pointer">Save Job</button>
                         </div>
                          
