@@ -11,7 +11,7 @@ const SavedJob = () => {
                {
                 saveJob.map(job=>
                 
-                <div className=" flex flex-col gap-2 py-8  items-center border border-gray-200 rounded-lg">
+                <div className=" flex flex-col gap-2 py-6  items-center border border-gray-200 rounded-lg">
                     <Link to={`/jobDetails/${job.id}`}>
                     <img className=" w-12 h-12 rounded-full" src={job.companyLogo}></img>
                     </Link>
