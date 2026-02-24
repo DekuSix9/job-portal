@@ -6,6 +6,8 @@ import Main from './layout/Main';
 import Home from './pages/Home';
 import SaveContext from './layout/SaveContext';
 import JobDetails from './pages/JobDetails';
+import Jobs from './pages/Jobs';
+import SavedJob from './pages/SavedJob';
 
 const router = createBrowserRouter([
   {
@@ -23,6 +25,14 @@ const router = createBrowserRouter([
       const res=await fetch('/jobs.json');
         return res.json();
       }
+     },
+     {
+      path:'/jobs',
+      element:<Jobs></Jobs>
+     },
+     {
+      path:'/savedjobs',
+      element:<SavedJob></SavedJob>
      }
     
     ]

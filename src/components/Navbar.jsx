@@ -19,8 +19,8 @@ const Navbar = () => {
                  {/* middle items */}
                  <div className="hidden md:flex space-x-4">
                     <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/">Home</NavLink>
-                   <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/jobs">Jobs</NavLink>
-                   <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/about">Saved Jobs</NavLink>
+                   <NavLink to='/jobs' className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} >Jobs</NavLink>
+                   <NavLink to='/savedjobs' className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} >Saved Jobs</NavLink>
                    <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/contact"> Applied Jobs</NavLink>
                  </div>
 
@@ -44,8 +44,8 @@ const Navbar = () => {
                 open && (
                     <div className="md:hidden mt-6 flex flex-col bg-white shadow-md  p-6 space-y-4">
                    <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/">Home</NavLink>
-                   <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/jobs">Jobs</NavLink>
-                   <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/about">Saved Jobs</NavLink>
+                   <NavLink  to='/jobs' className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} >Jobs</NavLink>
+                   <NavLink to='/savedjobs' className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} >Saved Jobs</NavLink>
                    <NavLink className={({ isActive }) => isActive ? "text-[#84BD00]" : "text-black hover:text-[#84BD00]"} to="/contact"> Applied Jobs</NavLink>
                     <div className="pt-4 space-y-3">
             <button className="w-full border py-2 rounded-lg text-gray-500 hover:bg-[#84BD00] hover:text-white">

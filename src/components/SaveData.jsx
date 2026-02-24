@@ -11,9 +11,11 @@ const SaveData = () => {
             
                   {
                 saveJob.map(job=>
-                <Link to={`/jobDetails/${job.id}`}>
+                
                 <div className=" flex gap-4 py-4">
-                  <img className=" w-8 h-8 rounded-full" src={job.companyLogo}></img>
+                    <Link to={`/jobDetails/${job.id}`}>
+                     <img className=" w-8 h-8 rounded-full" src={job.companyLogo}></img>
+                    </Link>              
                   <div className=" w-full">
                     <div className=" flex justify-between items-center">
                         <h1 className=" font-bold text-lg">{job.companyName}</h1>
@@ -23,7 +25,7 @@ const SaveData = () => {
                   </div>
 
                 </div>
-                </Link>)
+                )
             }
           
           

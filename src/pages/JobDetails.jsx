@@ -21,7 +21,7 @@ const JobDetails = () => {
     return (
         <div>
             <div className="bg-[#E6F4E1] px-4 py-20">
-        <div className="max-w-11/12 mx-auto font-inter ">
+        <div className="max-w-11/12 mx-auto font-inter">
              <div className="flex items-center justify-between">
              {/* logo and job info */}
         <div className="flex gap-4">
