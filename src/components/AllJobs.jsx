@@ -7,10 +7,9 @@ const AllJobs = ({filteredJobs}) => {
     return (
         
         <div className=" font-inter">
-            <div className=" flex justify-between">
+            
              <p className=" text-gray-500">{filteredJobs.length} results found</p>
-             <p className=" text-gray-500">Sort By</p>
-            </div>
+            
             
             {
                 filteredJobs.map(job=>(

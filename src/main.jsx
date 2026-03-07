@@ -8,6 +8,7 @@ import SaveContext from './layout/SaveContext';
 import JobDetails from './pages/JobDetails';
 import Jobs from './pages/Jobs';
 import SavedJob from './pages/SavedJob';
+import AboutUs from './pages/AboutUs';
 
 const router = createBrowserRouter([
   {
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
      {
       path:'/savedjobs',
       element:<SavedJob></SavedJob>
+     },
+     {
+      path:'/aboutUs',
+      element:<AboutUs></AboutUs>
      }
     
     ]

@@ -4,7 +4,7 @@ const JobType = ({ jobs, selectedJobType, setSelectedJobType }) => {
   return (
     <div>
       <div className="flex justify-between text-gray-500 mb-2">
-        <h1>Job Type</h1>
+        <h1 className="">Job Type</h1>
         <button onClick={() => setSelectedJobType("All")}>Clear</button>
       </div>
 

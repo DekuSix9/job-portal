@@ -22,12 +22,8 @@ const Jobs = () => {
 
     const handleFindJobs = () => {
       const result = jobs.filter(job => {
-      const matchTitle =
-        searchText === "" ||
-        job.jobTitle.toLowerCase().includes(searchText.toLowerCase());
-
+      const matchTitle =searchText === "" ||job.jobTitle.toLowerCase().includes(searchText.toLowerCase());
       const matchJobType=selectedType === "" || job.jobType === selectedType;
-
       const matchLocation=selectedLocation === "" || job.location === selectedLocation;
 
       return matchTitle && matchJobType && matchLocation;
@@ -50,14 +46,14 @@ const Jobs = () => {
                   type="text"
                   placeholder="Job title, keywords..."
                   className="w-full outline-none text-sm"
-                  onChange={(e) => setSearchText(e.target.value)}/>
+                  onChange={(e)=>setSearchText(e.target.value)}/>
               </div>
 
               {/* Job Type Dropdown */}
               <div className="flex items-center gap-2 w-[50%] border border-gray-300 rounded-lg px-3 py-3">
                 <select
                   className="w-full outline-none text-sm bg-transparent"
-                  onChange={(e) => setSelectedType(e.target.value)}>
+                  onChange={(e)=>setSelectedType(e.target.value)}>
                   <option value="">Job Types</option>
                   {uniqueJobType.map((type, index) => (
                     <option key={index} value={type}>{type}</option>
